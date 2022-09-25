@@ -8,7 +8,7 @@ Worksheet 3 = Defect Reports - any bugs/defects found during the tests.  All tes
 Worksheet 4 = UI Automation - all tests from original set that I would automate.  I have included some Locators for the buy page tests<br>
 
 **Postman collection** <br>
-This is an exported file detailing the endpoints to be tested.  I have included a test for each item within the collection which should be run per endpoint item.<br>
+This is an exported file detailing the endpoints to be tested.  I have included a test for each item within the collection which can be run via run collection option.  I have set a variable for the collection so that the baseURL is automatically added for each endpoint from one location<br>
 
 **Test results from Postman tests:**<br>
 get energy = pass <br>
